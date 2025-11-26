@@ -3,11 +3,44 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <div class="about-subtitle">
-    <p>
-      <span class="about-subtitle-cn">日拱一卒，功不唐捐。</span>
-      <span class="about-subtitle-en">Move forward one pawn a day; your efforts will not be in vain.</span>
-    </p>
+  <!-- 引入 Font Awesome（品牌图标） -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <!-- 引入 Academicons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+
+  <style>
+    .social-icons {
+      display: flex;
+      align-items: center;
+      gap: 4px;              /* 间距 */
+    }
+
+    .social-icons a {
+      text-decoration: none;
+      font-size: 24px;
+      line-height: 1;
+      color: #000000;        /* 关键：把图标统一设为黑色 */
+    }
+
+    /* 可选：hover 时变色，比如变成灰色 */
+    .social-icons a:hover {
+      color: #555555;
+    }
+  </style>
+
+  <div class="social-icons">
+    <a href="https://linkedin.com/in/wang-chenyu" target="_blank" rel="noopener" aria-label="LinkedIn">
+      <i class="fab fa-linkedin"></i>
+    </a>
+
+    <a href="https://github.com/JamesNolan17" target="_blank" rel="noopener" aria-label="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+
+    <a href="https://scholar.google.com/citations?user=fGg1YJUAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
+      <i class="ai ai-google-scholar"></i>
+    </a>
   </div>
 
 profile:
