@@ -77,7 +77,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-- Current research interests: AI Security, SE4AI, AI4SE.
-- Research Engineer at <a href="https://soarsmu.github.io/">SMU SOAR Lab</a> 🇸🇬.
-- PhD candidate at <a href="https://www.smu.edu.sg/">Singapore Management University</a> 🇸🇬.
-- M.Sc. graduate from <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design (SUTD)</a> 🇸🇬.
+🔬 **Current research interests:** AI Security, SE4AI, AI4SE<br>
+🧑‍💻 **Research Engineer** at [SMU SOAR Lab](https://soarsmu.github.io/) 🇸🇬<br>
+🎓 **PhD candidate** at [Singapore Management University (SMU)](https://www.smu.edu.sg/) 🇸🇬<br>
+🎓 **M.Sc. graduate** from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) 🇸🇬
