@@ -49,17 +49,17 @@ profile:
       </a>
 
       <!-- LinkedIn -->
-      <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank" rel="noopener" aria-label="LinkedIn">
+      <a href="https://www.linkedin.com/in/wang-chenyu/" target="_blank" rel="noopener" aria-label="LinkedIn">
         <i class="fab fa-linkedin"></i>
       </a>
 
       <!-- GitHub -->
-      <a href="https://github.com/your-github-id" target="_blank" rel="noopener" aria-label="GitHub">
+      <a href="https://github.com/JamesNolan17" target="_blank" rel="noopener" aria-label="GitHub">
         <i class="fab fa-github"></i>
       </a>
 
       <!-- Google Scholar -->
-      <a href="https://scholar.google.com/citations?user=fGg1YJUAAAAJ" target="_blank" rel="noopener" aria-label="Google Scholar">
+      <a href="https://scholar.google.com/citations?user=fGg1YJUAAAAJ&hl=en" target="_blank" rel="noopener" aria-label="Google Scholar">
         <i class="ai ai-google-scholar"></i>
       </a>
     </div>
