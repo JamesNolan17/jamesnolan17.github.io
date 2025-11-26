@@ -3,10 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <div class="about-subtitle">
-    <p>
-      <span class="about-subtitle-cn">日拱一卒，功不唐捐。</span>
-      <span class="about-subtitle-en">Move forward one pawn a day; your efforts will not be in vain.</span>
+  <div style="margin-top:0.5rem;font-size:0.95rem;line-height:1.6;">
+    <p style="margin:0;font-weight:500;">
+      日拱一卒，功不唐捐。
+    </p>
+    <p style="margin:0;opacity:0.8;font-style:italic;">
+      Move forward one pawn a day; your efforts will not be in vain.
     </p>
   </div>
 
