@@ -6,7 +6,6 @@ subtitle: >
   <div class="about-subtitle">
     <p>
       <span class="about-subtitle-cn">日拱一卒，功不唐捐。</span>
-      <span class="about-subtitle-divider"> | </span>
       <span class="about-subtitle-en">Move forward one pawn a day; your efforts will not be in vain.</span>
     </p>
   </div>
