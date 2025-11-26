@@ -4,9 +4,9 @@
 
 title: Chenyu's Website.
 first_name: Chenyu
-middle_name:
+middle_name: 
 last_name: Wang
-contact_note: personal email: vip17jamesnolan@gmail.com
+contact_note: vip17jamesnolan@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
