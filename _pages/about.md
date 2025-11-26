@@ -2,7 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  <div class="about-subtitle">
+    <p>日拱一卒，功不唐捐。</p>
+    <p>Move forward one pawn a day; your efforts will not be in vain.</p>
+  </div>
 
 profile:
   align: right
