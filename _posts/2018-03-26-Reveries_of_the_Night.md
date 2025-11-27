@@ -13,7 +13,7 @@ categories: prose
 *Reveries of the Night*  
 
 > 本文发表于《北方文学》。  
-> *This prose was published in **Northern Literature (北方文学)**.*
+> *This prose was published in **Northern Literature (北方文学) Issue 2 (2018)**.*
 
 ---
 
