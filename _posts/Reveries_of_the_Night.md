@@ -1,8 +1,19 @@
+---
+layout: post
+title: 夜的遐想 Reveries of the Night
+date: 2018-03-26 00:00:00
+description: An incomplete discussion of women and gender relations.
+tags: prose 
+categories: prose
+---
+
+
+
 # 夜的遐想  
 *Reveries of the Night*  
 
 > 本文发表于《北方文学》。  
-> *This essay was published in **Northern Literature (北方文学)**.*
+> *This prose was published in **Northern Literature (北方文学)**.*
 
 ---
 
