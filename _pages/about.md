@@ -81,5 +81,5 @@ latest_posts:
 🔬 **Current research interests:** AI Security, SE4AI, AI4SE<br>
 🧑‍💻 **Research Engineer** at [SMU SOAR Lab](https://soarsmu.github.io/) 🇸🇬<br>
 🎓 **PhD candidate** at [Singapore Management University (SMU)](https://www.smu.edu.sg/) 🇸🇬<br>
-🎓 **M.Sc. graduate** from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) 🇸🇬
+🎓 **M.Sc. graduate** from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) 🇸🇬<br>
 🃏 **Fun fact:** I'm a huge Pokémon fan and mainly collect Pokémon TCG cards — here's my collection gallery: [PSA Set Registry Gallery](https://www.psacard.com/psasetregistry/jamesnolan17/imagegallery/318693)<br>
