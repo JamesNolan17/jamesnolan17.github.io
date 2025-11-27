@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-the-godfather",
+            },{id: "post-夜的遐想-reveries-of-the-night",
+        
+          title: "夜的遐想 Reveries of the Night",
+        
+        description: "An incomplete discussion of women and gender relations.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2018/Reveries_of_the_Night/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
