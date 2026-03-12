@@ -88,8 +88,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-of-my-first-author-papers-is-accepted-by-ase-2025-see-you-in-seoul",
-          title: 'One of my first-author papers is accepted by ASE 2025! See you in...',
+            },},{id: "news-one-of-my-first-author-papers-is-accepted-by-the-40th-ieee-acm-international-conference-on-automated-software-engineering-ase-2025-see-you-in-seoul",
+          title: 'One of my first-author papers is accepted by the 40th IEEE/ACM International Conference...',
           description: "",
           section: "News",},{
       id: 'light-theme',
