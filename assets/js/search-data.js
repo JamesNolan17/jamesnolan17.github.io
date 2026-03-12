@@ -88,7 +88,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-one-of-my-first-author-papers-is-accepted-by-the-40th-ieee-acm-international-conference-on-automated-software-engineering-ase-2025-see-you-in-seoul",
+            },},{id: "news-one-of-my-first-author-papers-is-accepted-by-the-40th-ieee-acm-international-conference-on-automated-software-engineering-ase-2025-see-you-in-seoul-south-korea",
           title: 'One of my first-author papers is accepted by the 40th IEEE/ACM International Conference...',
           description: "",
           section: "News",},{id: "news-one-of-my-first-author-papers-is-accepted-by-the-international-conference-on-evaluation-and-assessment-in-software-engineering-ease-2026-see-you-in-glasgow-united-kingdom",
