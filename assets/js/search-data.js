@@ -32,17 +32,24 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Selected code and paper replication packages. The full list lives on my GitHub profile.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Chenyu Wang &amp;mdash; LLMs for software engineering, coding agents, and AI security. Click the PDF icon for the one-page r&amp;eacute;sum&amp;eacute;.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-service",
+          title: "service",
+          description: "Peer review and service to the software-engineering research community.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/service/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -50,13 +57,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
@@ -72,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-夜的遐想-reveries-of-the-night",
+            },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "post-夜的遐想-reveries-of-the-night",
         
           title: "夜的遐想 Reveries of the Night",
         
