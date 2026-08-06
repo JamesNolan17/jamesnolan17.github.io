@@ -3,4 +3,21 @@ github_users:
 
 repo_description_lines_max: 2
 
+# Curated repositories rendered natively on /repositories/ (shields.io badges,
+# no dependency on the github-readme-stats / trophy services, which are down/paywalled).
 github_repos:
+  - name: JamesNolan17/AIModelQuality
+    title: AIModelQuality
+    description: "Replication package for 'Unpacking Industry AI Quality Through Key Attributes' (EASE 2026 / IEEE Software)."
+  - name: JamesNolan17/AIQuality-Replication-Package
+    title: AIQuality-Replication-Package
+    description: "Replication package for 'Quality Assurance for Artificial Intelligence: Industrial Concerns, Challenges and Best Practices'."
+  - name: JamesNolan17/Mining-AI-repos-issues
+    title: Mining-AI-repos-issues
+    description: "Code for 'What Do Users Ask in Open-Source AI Repositories?' (MSR 2023)."
+  - name: JamesNolan17/BackdoorBench
+    title: BackdoorBench
+    description: "Experiments on backdoor attacks against code models."
+  - name: JamesNolan17/jamesnolan17.github.io
+    title: jamesnolan17.github.io
+    description: "Source for this academic website (al-folio / Jekyll)."

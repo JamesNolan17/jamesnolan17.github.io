@@ -1,0 +1,105 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Chenyu Wang
+    - name: Location
+      value: Singapore
+    - name: Email
+      value: chenyuwang@smu.edu.sg
+    - name: Languages
+      value: English, Mandarin Chinese
+    - name: Research Interests
+      value: LLMs for software engineering, coding agents, AI security &amp; program analysis
+    - name: Links
+      links:
+        - name: GitHub
+          link: https://github.com/JamesNolan17
+        - name: Scholar
+          link: https://scholar.google.com/citations?user=fGg1YJUAAAAJ
+        - name: LinkedIn
+          link: https://www.linkedin.com/in/wang-chenyu/
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science (part-time)
+      institution: Singapore Management University
+      year: 2023 &ndash; 2027 (exp.)
+      description:
+        - "Advisor: Prof. David Lo &mdash; SOAR Lab"
+        - Software engineering &amp; trustworthy AI
+    - title: B.Eng. in Computer Science &amp; Design
+      institution: Singapore University of Technology &amp; Design
+      year: 2019 &ndash; 2022
+      description:
+        - GPA 4.83 / 5.0 &mdash; Honours with Highest Distinction
+        - Minor in Artificial Intelligence
+        - Exchange, NUS School of Computing (2021)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Engineer
+      institution: SMU SOAR Lab, Singapore
+      year: 2023 &ndash; Now
+      description:
+        - First-author research on inference-time control of coding agents and code-model security (ASE 2025; EASE 2026 &rarr; IEEE Software; one paper under review).
+        - "Own projects end-to-end: empirical study, dataset construction, model training &amp; fine-tuning, evaluation, and research tooling."
+        - "In collaboration with GovTech Singapore (from 2026): repository-level agentic vulnerability detection &mdash; code property graphs plus LLM-as-a-judge context extraction."
+
+- title: Selected Publications (First Author)
+  type: nested_list
+  contents:
+    - title: "Fail-Fast, Restart-Smart: Early Failure Prediction and Restart for SWE Agentic Tasks &mdash; under review, 2027 (arXiv:2608.03222)"
+      items:
+        - A 0.6B monitor supervises 27B+ coding agents at inference &mdash; 14.6&ndash;20.4% execution-token savings at a 5% false-positive rate; SWE-bench Verified issue resolution 66.6% &rarr; 71.8%.
+        - One monitor transfers across four agents, including a closed-API model.
+    - title: "Backdoors in Code Summarizers: How Bad Is It? &mdash; ASE 2025"
+      items:
+        - 20 of 454,451 samples (0.004%) implant a backdoor that the standard spectral-signature defense fails to remove &mdash; far below rates previously assumed safe.
+    - title: "Industry Practitioners&rsquo; Perspectives on AI Model Quality &mdash; EASE 2026 (invited to IEEE Software)"
+      items:
+        - 15 interviews and a 50-practitioner survey; efficiency is treated as a hard constraint over correctness in real-time systems.
+
+- title: Selected Publications (Co-authored)
+  type: nested_list
+  contents:
+    - title: "Unveiling Memorization in Code Models &mdash; ICSE 2024"
+    - title: "Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in Code Models &mdash; IEEE TSE 2024"
+    - title: "What Do Users Ask in Open-Source AI Repositories? An Empirical Study of GitHub Issues &mdash; MSR 2023"
+    - title: "Are We Ready to Embrace Generative AI for Software Q&amp;A? &mdash; ASE 2023"
+
+- title: Honors and Awards
+  type: list
+  contents:
+    - "<b>Best Student Award</b>, SUTD &mdash; ranked 1st of 400+ students (Term 3)"
+    - "Honours with <b>Highest Distinction</b>, SUTD (GPA 4.83 / 5.0); SUTD Honours List (multiple terms)"
+    - "<b>Senior Middle 2 Scholarship</b>, Singapore Ministry of Education"
+    - "Selected for <b>NUS exchange</b> via SUSEP (7 students from the pillar)"
+
+- title: Academic Service
+  type: list
+  contents:
+    - "<b>Reviewer</b>, ACM Transactions on Software Engineering and Methodology (TOSEM) &mdash; 2 submissions"
+    - "<b>Reviewer</b>, Mining Software Repositories (MSR) 2026"
+
+- title: Technical Skills
+  type: list_groups
+  contents:
+    - category: Languages
+      items:
+        - name: "Python, Java, JavaScript (proficient)"
+        - name: "C, TypeScript, Shell (working)"
+    - category: ML / LLM
+      items:
+        - name: "PyTorch, Hugging Face, LoRA / PEFT fine-tuning"
+        - name: "LLM agents, monitor models, code LLMs (CodeT5, PLBART, Qwen, Gemma)"
+    - category: Program Analysis and Security
+      items:
+        - name: "Code property graphs, program slicing, taint analysis"
+        - name: "Backdoor &amp; adversarial robustness, vulnerability detection"
+    - category: Engineering
+      items:
+        - name: "React &amp; full-stack web development; Docker, Git, Linux"
+        - name: "Empirical evaluation, LLM-agent benchmarking (SWE-bench)"
