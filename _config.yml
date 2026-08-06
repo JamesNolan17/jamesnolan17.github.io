@@ -618,9 +618,12 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# Disabled: this loaded the placeholder Einstein resume.json into
+# site.data.resume, which made the CV layout ignore _data/cv.yml.
+# The CV now renders from _data/cv.yml (see _layouts/cv.liquid).
+# jekyll_get_json:
+#   - data: resume
+#     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
