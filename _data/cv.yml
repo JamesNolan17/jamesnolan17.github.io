@@ -53,8 +53,8 @@
   contents:
     - title: "Fail-Fast, Restart-Smart: Early Failure Prediction and Restart for SWE Agentic Tasks &mdash; under review, 2027 (arXiv:2608.03222)"
       items:
-        - A 0.6B monitor supervises 27B+ coding agents at inference &mdash; 14.6&ndash;20.4% execution-token savings at a 5% false-positive rate; SWE-bench Verified issue resolution 66.6% &rarr; 71.8%.
-        - One monitor transfers across four agents, including a closed-API model.
+        - "<b>Fail-Fast</b> (cost): a 0.6B monitor early-terminates doomed runs &mdash; 14.6&ndash;20.4% token savings at a 5% false-positive rate, transferring across four policies incl. a closed-API model."
+        - "<b>Restart-Smart</b> (quality): on an alarm, relaunches a fresh rollout with the prior repo diff as an optional overlay &mdash; SWE-bench Verified resolution 66.6% &rarr; 71.8%."
     - title: "Backdoors in Code Summarizers: How Bad Is It? &mdash; ASE 2025"
       items:
         - 20 of 454,451 samples (0.004%) implant a backdoor that the standard spectral-signature defense fails to remove &mdash; far below rates previously assumed safe.

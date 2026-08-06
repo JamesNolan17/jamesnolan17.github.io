@@ -100,7 +100,7 @@
       "publisher": "Under review, 2027 · CORE A*",
       "releaseDate": "2027-01-01",
       "url": "https://arxiv.org/abs/2608.03222",
-      "summary": "A two-stage controller for SWE agents: a lightweight 0.6B monitor predicts failure early from the trajectory prefix, then a smart restart relaunches a fresh rollout offering the interrupted repo diff as an optional overlay. Cuts 14.6–20.4% of execution tokens and lifts SWE-bench Verified resolution 66.6% → 71.8%; one monitor transfers across four policies, including a closed-API model."
+      "summary": "A two-stage controller with two complementary modes. Fail-Fast (cost): a 0.6B monitor early-terminates doomed runs — 14.6–20.4% token savings at a 5% false-positive rate, transferring across four policies including a closed-API model. Restart-Smart (quality): on an alarm, relaunches a fresh rollout with the prior repo diff as an optional overlay — SWE-bench Verified resolution 66.6% → 71.8%."
     },
     {
       "name": "Backdoors in Code Summarizers: How Bad Is It?",
