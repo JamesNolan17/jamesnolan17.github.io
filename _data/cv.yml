@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Chenyu Wang
+      value: Chenyu Wang (王晨语)
     - name: Location
       value: Singapore
     - name: Email
@@ -60,7 +60,7 @@
         - 20 of 454,451 samples (0.004%) implant a backdoor that the standard spectral-signature defense fails to remove &mdash; far below rates previously assumed safe.
     - title: "Industry Practitioners&rsquo; Perspectives on AI Model Quality &mdash; EASE 2026 (invited to IEEE Software)"
       items:
-        - 15 interviews and a 50-practitioner survey; efficiency is treated as a hard constraint over correctness in real-time systems.
+        - 15 interviews and a 50-practitioner survey on how practitioners prioritize AI model quality; e.g., for real-time AI, efficiency is a hard constraint over correctness.
 
 - title: Selected Publications (Co-authored)
   type: nested_list
