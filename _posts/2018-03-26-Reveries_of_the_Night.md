@@ -138,7 +138,7 @@ categories: prose
 再后来，她们成了母亲，女性保护的特征完全发挥了出来。  
 *Later still, they become mothers, and the protective nature of women is fully brought into play.*
 
-用好奇心和极大的喜悦接就生命。  
+用好奇心和极大的喜悦迎接生命。  
 *With curiosity and immense joy, they welcome new life.*
 
 她们无师自通地开始了长年的抚育。  
