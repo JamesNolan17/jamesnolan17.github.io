@@ -78,7 +78,7 @@ categories: prose
 而女人则是蕴含着神奇力量的宁静之源。  
 *While women are a wellspring of quiet, almost magical power.*
 
-她们懂得怎么做能让自己的爱人感到舒服、感到自己受到了心上人的崇拜，从而肯于考虑女人以及其他别人的的建议。  
+她们懂得怎么做能让自己的爱人感到舒服、感到自己受到了心上人的崇拜，从而肯于考虑女人以及其他别人的建议。  
 *They know how to make their beloved feel at ease, feel admired and cherished, so that he is willing to listen to a woman’s advice and to others’ counsel.*
 
 转而把自己的力量尽量多的用于创造，而不是破坏。  
@@ -109,7 +109,7 @@ categories: prose
 
 ---
 
-少女时期，她不知用一颦一笑敲开过多少男孩的心心扉；  
+少女时期，她不知用一颦一笑敲开过多少男孩的心扉；  
 *In girlhood, she has no idea how many boys’ hearts she has opened with a single frown or smile.*
 
 此时虽无丰厚的底蕴，但已开始呈现温柔细腻多情的性格；  
