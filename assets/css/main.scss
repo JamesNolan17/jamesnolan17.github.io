@@ -23,3 +23,21 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// ===== Custom navbar layout fixes =====
+// Vertically center the brand with the nav row, and keep the search hint
+// ("ctrl/⌘ k" + icon) and theme toggle from wrapping onto separate lines.
+#navbar {
+  .container {
+    align-items: center;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav .nav-item {
+    flex-shrink: 0; // don't let items get squeezed (which forced content to wrap)
+  }
+  #search-toggle .nav-link {
+    white-space: nowrap; // keep "⌘ k 🔍" on one line
+  }
+}
