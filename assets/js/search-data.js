@@ -101,6 +101,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-of-my-first-author-papers-is-accepted-by-the-30th-international-conference-on-evaluation-and-assessment-in-software-engineering-ease-2026-see-you-in-glasgow-united-kingdom",
           title: 'One of my first-author papers is accepted by the 30th International Conference on...',
           description: "",
+          section: "News",},{id: "news-my-ease-2026-paper-industry-practitioners-perspectives-on-ai-model-quality-has-been-selected-to-be-featured-in-ieee-software-s-practitioner-s-digest-column-november-december-2026-issue-which-brings-research-of-interest-to-practitioners",
+          title: 'My EASE 2026 paper Industry Practitioners’ Perspectives on AI Model Quality has been...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
