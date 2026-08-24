@@ -82,4 +82,5 @@ latest_posts:
 🧑‍💻 **Research Engineer** at [SMU SOAR Lab](https://soarsmu.github.io/) 🇸🇬<br>
 🎓 **PhD candidate** at [Singapore Management University (SMU)](https://www.smu.edu.sg/) 🇸🇬<br>
 🎓 **B.Eng. graduate** from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) 🇸🇬<br>
+🪪 **Singapore Permanent Resident (PR)**<br>
 🃏 **Fun fact:** I'm a huge Pokémon fan and mainly collect Pokémon TCG cards — here's my collection gallery: [PSA Set Registry Gallery](https://www.psacard.com/psasetregistry/jamesnolan17/imagegallery/318693)<br>
